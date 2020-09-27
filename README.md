@@ -25,7 +25,7 @@ because I always make them surprised by my actions.
   <img height="50" width="50" src="https://devicons.github.io/devicon/devicon.git/icons/codeigniter/codeigniter-plain.svg"/>
   <img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
   <img height="50" width="50" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg"/>
-  <img height="50" width="50" src="https://devicons.github.io/devicon/devicon.git/icons/django/django-plain.svg"/>
+  <img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" /> 
   <img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
   <img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
   <img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
