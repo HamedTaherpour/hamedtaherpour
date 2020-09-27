@@ -8,13 +8,12 @@
 <img height="250" src="https://media.giphy.com/media/L0BMRbmQDOy03Z7A36/giphy.gif" />
 </p>
 
-<code>
 I was born in 1995, I live in Karaj, Iran. I'm so interested in website and application
 programming and learning and I always accept the challenges enthusiastically.
 <br>
 The people who are working with me are always happy and satisfied with my personality
 because I always make them surprised by my actions.
-</code>
+
 <h1 align="left">Technologies</h1>
 
 <p align="center">
