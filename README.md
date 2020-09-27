@@ -31,4 +31,3 @@ because I always make them surprised by my actions.
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamedTaherpour&hide=html&hide_border=true"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=HamedTaherpour&count_private=true&hide_border=true" />
-
