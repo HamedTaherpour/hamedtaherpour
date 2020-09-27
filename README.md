@@ -29,6 +29,6 @@ because I always make them surprised by my actions.
   <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />
 </p>
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamedTaherpour&hide=html&hide_border=true"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=HamedTaherpour&count_private=true&hide_border=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamedTaherpour&hide=html&hide_border=true"/>
 
