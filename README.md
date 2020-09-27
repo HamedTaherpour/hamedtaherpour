@@ -1,5 +1,9 @@
 <h1 align="center">Hello, I'm Hamed 👋</h1>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=HamedTaherpour&label=Profile+Views" />
+</p>
+
 I was born in 1995, I live in Karaj, Iran. I'm so interested in website and application
 programming and learning and I always accept the challenges enthusiastically.
 <br>
