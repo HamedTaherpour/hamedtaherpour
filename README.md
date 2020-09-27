@@ -32,6 +32,6 @@ because I always make them surprised by my actions.
 
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=HamedTaherpour&count_private=true" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamedTaherpour&layout=compact&hide=html"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamedTaherpour&layout=compact&hide=html"/>
 </p>
 
