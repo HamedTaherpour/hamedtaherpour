@@ -1,7 +1,11 @@
 <h1 align="center">Hello, I'm Hamed 👋</h1>
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-  
+I was born in 1995, I live in Karaj, Iran. I'm so interested in website and application
+programming and learning and I always accept the challenges enthusiastically.
+<br>
+The people who are working with me are always happy and satisfied with my personality
+because I always make them surprised by my actions.
+
 <h1 align="left">Technologies</h1>
   
 <p align="left">
