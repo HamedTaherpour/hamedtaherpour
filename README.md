@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img height="300" src="https://media.giphy.com/media/L0BMRbmQDOy03Z7A36/giphy.gif" />
+<img height="250" src="https://media.giphy.com/media/L0BMRbmQDOy03Z7A36/giphy.gif" />
 </p>
 
 I was born in 1995, I live in Karaj, Iran. I'm so interested in website and application
