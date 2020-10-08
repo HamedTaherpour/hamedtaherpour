@@ -14,31 +14,25 @@ programming and learning and I always accept the challenges enthusiastically.
 The people who are working with me are always happy and satisfied with my personality
 because I always make them surprised by my actions.
 
-#### Languages I use
-![Java](https://img.shields.io/badge/-Java-DF0100?style=flat&logo=java&logoColor=FFFFFF)
-![Kotlin](https://img.shields.io/badge/-Kotlin-27282c?style=flat&logo=kotlin&logoColor=f8873c)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=FFFFFF)
-![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sqlite&logoColor=white)
-![HTML5 Badge](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=white)
-![CSS3 Badge](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=flat&logo=css3&logoColor=white)
-![Python Badge](https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python&logoColor=ffdc51)
-![Javascript Badge](https://img.shields.io/badge/javascript-f7df1e.svg?&style=flat&logo=javascript&logoColor=black)
-
-
-##### Some of the technologies I have worked with
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=FFFFFF)
-![Flutter](https://img.shields.io/badge/Flutter-1389FD.svg?style=flat&logo=flutter&logoColor=FFFFFF)
-![Laravel](https://img.shields.io/badge/-Laravel-ff2d20?style=flat&logo=laravel&logoColor=FFFFFF)
-![SQLite](https://img.shields.io/badge/-SQLite-044a64?style=flat&logo=sqlite&logoColor=FFFFFF)
-![MySQL Badge](https://img.shields.io/badge/MySQL-00758f.svg?&style=flat&logo=mysql&logoColor=ffffff)
-![Codeigniter](https://img.shields.io/badge/-Codeigniter-dd4814?style=flat&logo=codeigniter&logoColor=FFFFFF)
-![Firebase](https://img.shields.io/badge/-Firebase-039be5?style=flat&logo=Firebase&logoColor=ffca28)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=FFFFFF)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=FFFFFF)
-![GitLab](https://img.shields.io/badge/-GitLab-222222?style=flat&logo=GitLab&logoColor=FCC624)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=FFFFFF)
-![Bootstrap Badge](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=flat&logo=bootstrap&logoColor=white)
-![Jquery Badge](https://img.shields.io/badge/jquery-78cff5.svg?&style=flat&logo=jquery&logoColor=white)
+ <h1 align="left">Technologies</h1> 
+ 
+<p align="center">
+<img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" title="flutter" alt="flutter"/>
+<img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" title="android" alt="android"/>
+<img height="35" width="35" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" title="java" alt="java"/>
+<img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" title="php" alt="php"/>
+<img height="35" width="35" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" title="mysql" alt="mysql"/>
+<img height="35" width="35" src="https://devicons.github.io/devicon/devicon.git/icons/codeigniter/codeigniter-plain.svg" title="codeigniter" alt="codeigniter"/>
+<img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" title="laravel" alt="laravel"/>
+<img height="35" width="35" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" title="python" alt="python"/>
+<img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" title="django" alt="django"/>
+<img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="html" alt="html"/>
+<img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="css" alt="css"/>
+<img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" title="bootstrap" alt="bootstrap"/>
+<img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="javascript" alt="javascript"/>
+<img height="35" width="35" src="https://devicons.github.io/devicon/devicon.git/icons/jquery/jquery-plain.svg" title="jquery" alt="jquery"/>
+<img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" title="unity" alt="unity"/>
+</p>
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamedTaherpour&hide=html&hide_border=true"/>
