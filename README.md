@@ -19,8 +19,6 @@
 <img height="35" width="35" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" title="mysql" alt="mysql"/>
 <img height="35" width="35" src="https://devicons.github.io/devicon/devicon.git/icons/codeigniter/codeigniter-plain.svg" title="codeigniter" alt="codeigniter"/>
 <img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" title="laravel" alt="laravel"/>
-<img height="35" width="35" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" title="python" alt="python"/>
-<img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" title="django" alt="django"/>
 <img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="html" alt="html"/>
 <img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="css" alt="css"/>
 <img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" title="bootstrap" alt="bootstrap"/>
