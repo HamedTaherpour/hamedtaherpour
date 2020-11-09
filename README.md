@@ -12,7 +12,6 @@
  <h1 align="left">Technologies</h1> 
  
 <p align="center">
-<img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" title="flutter" alt="flutter"/>
 <img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" title="android" alt="android"/>
 <img height="35" width="35" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" title="java" alt="java"/>
 <img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" title="php" alt="php"/>
