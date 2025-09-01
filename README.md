@@ -1,4 +1,12 @@
-<h1 align="center">Hello, I'm Hamed 👋</h1>
+<h1 align="center"># Hi there 👋, I'm Hamed Taherpour </h1>
+
+<h2 align="center">
+🚀 **Front-End Developer** | 💻 **React & Vue Enthusiast**  
+</h2>
+<p align="center">
+I'm a passionate front-end developer with experience in building modern, responsive, and user-friendly web applications.  
+I enjoy turning ideas into real products using clean code and best practices.  
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HamedTaherpour&label=Profile+Views" />
