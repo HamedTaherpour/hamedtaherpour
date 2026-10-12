@@ -2,7 +2,7 @@
 
 I'm a **Frontend Developer** focused on building modern web applications with **React, Next.js, and TypeScript**. ⚛️
 
-I started my development journey with **native Android development** 📱 and later moved into web development. These days, most of my work is around frontend development, while I'm also exploring **Node.js, NestJS, PostgreSQL, system design, and backend engineering** to better understand and build complete products.
+I started my development journey with **native Android development** 📱 and later moved into web development. These days, most of my work is around frontend development, while I'm currently focused on **learning Shopify app development using Remix and building apps around discounts and promotions** to better understand and build complete products.
 
 I'm also interested in **AI-assisted development** 🤖 and how tools like **Codex, Claude, and Cursor** can be used throughout a real development workflow — from planning and implementation to testing and code review.
 
@@ -12,14 +12,14 @@ I'm also interested in **AI-assisted development** 🤖 and how tools like **Cod
 
 `React` · `Next.js` · `TypeScript` · `JavaScript` · `HTML` · `CSS`
 
-**Backend**
+**Shopify Ecosystem**
 
-`Node.js` · `NestJS` · `PostgreSQL` · `Prisma` · `Redis`
+`Shopify App Development` · `Remix` · `Liquid` · `GraphQL` · `REST API`
 
 **Tools & Platforms**
 
-`Git` · `GitHub` · `Shopify` · `GraphQL` · `REST API`
+`Git` · `GitHub`
 
 **Currently Exploring**
 
-`System Design` · `Backend Architecture` · `AI Coding Agents` · `AI-assisted Development`
+`Shopify App Development` · `Remix` · `Shopify Discount APIs` · `AI Coding Agents` · `AI-assisted Development`
