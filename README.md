@@ -16,10 +16,6 @@ I'm also interested in **AI-assisted development** 🤖 and how tools like **Cod
 
 `Shopify App Development` · `Remix` · `Liquid` · `GraphQL` · `REST API`
 
-**Tools & Platforms**
-
-`Git` · `GitHub`
-
 **Currently Exploring**
 
 `Shopify App Development` · `Remix` · `Shopify Discount APIs` · `AI Coding Agents` · `AI-assisted Development`
